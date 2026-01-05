@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "a55d0604ae481b92764dca76e17bb685",
+const RESOURCES = {"flutter_bootstrap.js": "4190e49114f0c0739a93b2179675c7bf",
 "version.json": "009c9e65172e010890f7f65fde438006",
 "index.html": "80b7f3c2a7bb29c643595523dbc0fc2e",
 "/": "80b7f3c2a7bb29c643595523dbc0fc2e",
-"main.dart.js": "04cab0a4c05538e57c56bb24e6b5e6e6",
+"main.dart.js": "16a4403bfe0573408f6466effa6423bd",
 "flutter.js": "24bc71911b75b5f8135c949e27a2984e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -22,7 +22,7 @@ const RESOURCES = {"flutter_bootstrap.js": "a55d0604ae481b92764dca76e17bb685",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/shaders/stretch_effect.frag": "40d68efbbf360632f614c731219e95f0",
 "assets/AssetManifest.bin": "aa883ee343eec1cbc11265a102fb6a0d",
-"assets/fonts/MaterialIcons-Regular.otf": "c0ad29d56cfe3890223c02da3c6e0448",
+"assets/fonts/MaterialIcons-Regular.otf": "842934d6cb19fd927118dae6e240c98c",
 "assets/assets/images/sant%2520pic.jpeg": "6aa1ad84fa2aff343c1f125ec1ff9a41",
 "assets/assets/images/getfooddelivery.png": "f58f85d3904d1a0bc1998ae72b8105dc",
 "assets/assets/images/Xcode.png": "86217a8d43472930b639e80e9d0a6bb6",
